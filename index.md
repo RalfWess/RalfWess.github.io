@@ -2,7 +2,7 @@
 
 
 
-Physicist (retired, born 1942)    
+Physicist (retired, born 1943)    
 E-mail: rawessel@gmx.net        
 City: Berlin/Germany       
 
