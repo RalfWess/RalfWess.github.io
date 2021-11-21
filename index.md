@@ -19,7 +19,7 @@ City: Berlin/Germany
 ### My publications:  
 
 
-* **Not-cited in PubMed:**  <a href="https://RalfWess.github.io/Publications_not_in_PubMed.html" target="_blank"> publications</a> 
+* **Not-cited in PubMed:**  <a href="https://github.com/RalfWess/RalfWess.github.io/Publications_not_in_PubMed.html" target="_blank"> publications</a> 
 
 * **Cited in PubMed:**  <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=wessel+r" target="_blank"> publications</a> 
 
