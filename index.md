@@ -2,8 +2,8 @@
 
 
 ![](./KPP_small.png)  
-Bioinformatician (retired, born 1944)    
-E-mail: pleissner@gmail.com  
+Physicist (retired, born 1942)    
+E-mail: rawessel@gmx.net
 City: Berlin/Germany  
 
 ***
