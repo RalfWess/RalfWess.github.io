@@ -4,8 +4,7 @@
 
 Physicist (retired, born 1941)    
 E-mail: rawessel@gmx.net        
-
-City: Berlin/Germany    
+City: Berlin/Germany       
 
 ***
 
