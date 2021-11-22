@@ -27,10 +27,9 @@ City: Berlin/Germany
 ***  
 
 ### Some contributions to WWW:
+ 
 
-* <a href="https://grippe.shinyapps.io/CA_plot/ " target="_blank">   Corr_Plot - Interactive Correspondence Analysis plot </a>  
-
-* <a href="https://grippe.shinyapps.io/GelCali/ " target="_blank">  CorrExpression - Correspondence analysis in DELPHI </a>
+* <a href="https://grippe.shinyapps.io/GelCali/ " target="_blank">  CorrXpression - Correspondence analysis in DELPHI </a>
 
 
 
