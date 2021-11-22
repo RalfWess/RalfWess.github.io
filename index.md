@@ -21,7 +21,7 @@ City: Berlin/Germany
 
 * **Not-cited in PubMed:**  <a href="https://RalfWess.github.io/Publi.html" target="_blank"> publications</a> 
 
-* **Cited in PubMed:**  <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=wessel+r" target="_blank"> publications</a> 
+* **Cited in PubMed:**  <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=WESSEL+R  KLEIN + A" target="_blank"> publications</a> 
 
 
 ***  
