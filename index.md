@@ -37,4 +37,4 @@ City: Berlin/Germany
 
 *** 
 ### My hobbies:  
-walking, hiking
+walking, hiking, skiing
