@@ -1,6 +1,6 @@
 # Dr. Ralf Wessel
 
-
+ ![GitHub Logo](wessel_klein.png)
 
 Physicist (retired, born 1942)    
 E-mail: rawessel@gmx.net        
