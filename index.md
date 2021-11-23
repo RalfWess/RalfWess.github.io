@@ -30,7 +30,7 @@ City: Berlin/Germany
 
 * Central Institute for Molecular Biology, Berlin (1972-1991)  
 
-* Free University Berlin(1991-1994)  
+* Free University Berlin (1991-1994)  
 
 * Max-Delbrueck-Center, Berlin (1994-2007)  
 
