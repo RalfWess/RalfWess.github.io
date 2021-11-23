@@ -11,11 +11,11 @@ City: Berlin/Germany
 ### My scientific interests:
  
 
-* statistical analysis of biological/genetic/proteomic data  
+* Analysis of biological/genetic/proteomic data  
 
-* programming skills: C++, HTML, FORTRAN,  relational databases (MySQ)  
+* Programming skills: C++, HTML, FORTRAN,  relational databases (MySQ)  
 
-*** 
+
 ### My publications:  
 
 
