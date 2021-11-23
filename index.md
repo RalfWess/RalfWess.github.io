@@ -13,7 +13,7 @@ City: Berlin/Germany
 
 * Analysis of biological/genetic/proteomic data  
 
-* Programming skills: C++, HTML, FORTRAN,  relational databases (MySQ)  
+* Programming skills: C++, HTML, FORTRAN,  relational databases (MySQL)  
 
 
 ### My publications:  
@@ -22,15 +22,6 @@ City: Berlin/Germany
 * **Not-cited in PubMed:**  <a href="https://RalfWess.github.io/Publi.html" target="_blank"> publications</a> 
 
 * **Cited in PubMed:**  <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=WESSEL+R  KLEIN + A" target="_blank"> publications</a> 
-
-
-***  
-
-### Some contributions to WWW:
- 
-
-* <a href="https://grippe.shinyapps.io/GelCali/ " target="_blank">  CorrXpression - Correspondence analysis in DELPHI </a>
-
 
 
 *** 
