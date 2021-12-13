@@ -19,7 +19,7 @@ City: Berlin/Germany
 ### My publications:  
 
 
-* **Publications and Posters:**  <a href="https://RalfWess.github.io/PublicationsRW.PDF" target="_blank"> publications</a> 
+* **Publications and Posters:**  <a href="https://RalfWess.github.io/PublicationsRW.pdf" target="_blank"> publications</a> 
 
 
 *** 
